@@ -13,14 +13,14 @@ sidebar:
 
     # Sidebar links
     email: phil@rigovanov.ru
-    phone: 012 345 6789
+    phone: # 012 345 6789
     website: phil.rigovanov.ru #do not add http://
     linkedin: rigovanov
     github: a1ip
-    gitlab: a1ip
+    gitlab: # a1ip
     bitbucket:
     twitter: '@phil_rigovanov'
-    stack-overflow: 747847/philippe-y-rigovanov # Number/Username, e.g. 123456/alandoe
+    stack-overflow: # 747847/philippe-y-rigovanov # Number/Username, e.g. 123456/alandoe
     codewars: a1ip
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -32,13 +32,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: # Climbing
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: # Snowboarding
         link:
 
 career-profile:
