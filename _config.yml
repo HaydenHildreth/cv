@@ -28,6 +28,30 @@ compress_html: # - http://jch.penibelst.de/
   ignore:
     envs: development
 
+defaults:
+  -
+    scope:
+      path: "assets/images"
+    values:
+      image: true
+  -
+    scope:
+      path: "assets" # Exclude from sitemap.xml
+    values:
+      sitemap:
+        exclude: "yes"
+  -
+    scope:
+      path: "404.html" # Exclude from sitemap.xml
+    values:
+      sitemap:
+        exclude: "yes"
+  -
+    scope:
+      path: "README.md" # Exclude from sitemap.xml
+    values:
+      sitemap:
+        exclude: "yes"
 # Development Settings
 port: 4000
 host: 0.0.0.0
