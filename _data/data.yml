@@ -112,6 +112,13 @@ projects:
       - title: JS4K
         link: "https://js4k.github.io"
         tagline: "Multilanguage site on Jekyll"
+publications:
+    title: Certificats
+    intro: |
+#
+    papers:
+      - title: "Pictographic Phonetic Alphabet's certificate of registration"
+        link: "/cv/assets/docs/Certificate_of_Registration.pdf"
 # publications:
 #     title: Publications
 #     intro: |
