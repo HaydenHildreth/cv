@@ -98,7 +98,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here are my side projects:
+#      Here are my side projects:
     assignments:
       - title: Pictographic Phonetic Alphabet
         link: "https://ppa4ipa.com"
