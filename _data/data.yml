@@ -52,24 +52,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Math and informatics teacher interested in statistics, Data Analysis,
+      Data Visualisation, Machine Learning, Natural Language Processing and
+      Web Technologies.
 education:
     - degree: BSc in Computer Science and Engineering
       university: Southern Federal University
       time: 2018 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Department of Systems Analysis and Telecommunications
 experiences:
     - role: Informatics teacher
       time: 2017 - Present
@@ -77,32 +68,24 @@ experiences:
       details: |
         All responsibilities of a 1st and 2nd year computer science teacher.
         Implementation of the cloud educational platform google class.
-          - Bullet point
-          - Bullet point
     - role: Tutor in mathematics and mentor in programming, Novorossiysk
       time: 2014 - Present
       details: |
         Preparation for passing the OGE (main state examination).
         Assistance in mastering the school curriculum for grades 4-9.
         Teaching children of elementary grades programming in JavaScript.
-          - Bullet point
-          - Bullet point
-    - role: System administratorTechnical Support Engineer, IT helpdesk, ZAO Raiffeisenbank, Moscow
+    - role: System administrator
       time: 2011 - 2017
       company: Eltrans, Novorossiysk
       details: |
         Support for the company's internal computer network, mail and file servers,
         workstations. Installation and support of "Transas" navigation training systems.
         Creation and support of the company's website.
-          - Bullet point
-          - Bullet point
     - role: System administratorTechnical Support Engineer, IT helpdesk
       time: 2009 - 2010
       company: Raiffeisenbank, Moscow
       details: |
         Troubleshooting the network devices, installation of workstations (computers and telephones), creating cross connections.
-          - Bullet point
-          - Bullet point
     - role: Software Engineer
       time: 2008
       company: Lanit-Tercom, St. Petersburg
