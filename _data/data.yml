@@ -106,7 +106,7 @@ projects:
       - title: PWA app for hymns lyrics
         link: "https://github.com/novchurch/songs"
         tagline: #""        
-      - title: Module for Mybible app
+      - title: Module for MyBible app
         link: "https://novchurch.github.io/plan/"
         tagline: #""
       - title: JS4K
