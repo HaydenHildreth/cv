@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Phil Rigovanov
-url: 'http://rigovanov.ru'
+url: 'https://rigovanov.ru'
 baseurl: '/cv' #change it according to your repository name
 description: My CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
