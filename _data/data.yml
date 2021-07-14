@@ -112,6 +112,9 @@ projects:
       - title: JS4K
         link: "https://js4k.github.io"
         tagline: "Multilanguage site on Jekyll"
+      - title: Eltrans Ltd. Co. site
+        link: "http://www.eltrans.ru"
+        tagline: "Multilanguage site on vanilla HTML+CSS"
 publications:
     title: Certificats
     intro: |
