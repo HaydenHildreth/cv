@@ -114,7 +114,7 @@ projects:
         tagline: "Multilanguage site on Jekyll"
       - title: Eltrans Ltd. company site
         link: "http://www.eltrans.ru"
-        tagline: "Multilanguage site on vanilla HTML+CSS"
+        tagline: "Multilanguage site in vanilla HTML+CSS"
 publications:
     title: Certificats
     intro: |
