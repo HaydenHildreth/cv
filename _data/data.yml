@@ -103,7 +103,7 @@ projects:
     assignments:
       - title: Pictographic Phonetic Alphabet
         link: "https://ppa4ipa.com"
-        tagline: "Pictographic Phonetic Alphabet is a system of phonetic signs that includes symbols functioning as didactic software."
+        tagline: "System of phonetic signs that includes symbols functioning as didactic software."
       - title: PWA app for hymns lyrics
         link: "https://github.com/novchurch/songs"
         tagline: #""        
