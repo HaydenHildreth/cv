@@ -115,7 +115,7 @@ projects:
         tagline: "Multilanguage site on Jekyll"
       - title: Ses-life company site
         link: "https://ses-life.github.io"
-        tagline: "One-page site"
+        tagline: "Alteration of the working site on Jekyll"
       - title: Eltrans Ltd. company site
         link: "http://www.eltrans.ru"
         tagline: "Multilanguage site in vanilla HTML+CSS"
