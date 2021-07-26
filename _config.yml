@@ -32,6 +32,11 @@ compress_html: # - http://jch.penibelst.de/
 defaults:
   -
     scope:
+      path: ""
+    values:
+      image: /assets/images/screenshot.jpg
+  -
+    scope:
       path: "assets/images"
     values:
       image: true
