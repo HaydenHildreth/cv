@@ -115,7 +115,7 @@ projects:
         tagline: "Multilanguage site on Jekyll"
       - title: Ses-life company site
         link: "https://ses-life.github.io"
-        tagline: "Alteration of the working on the Laravel site to Jekyll"
+        tagline: "Migration of the working site from Laravel to Jekyll"
       - title: Eltrans Ltd. company site
         link: "http://www.eltrans.ru"
         tagline: "Multilanguage site in vanilla HTML+CSS"
