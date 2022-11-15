@@ -7,35 +7,36 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Philippe Rigovanov
-    tagline: Math & Informatics Teacher
+    name: Hayden Hildreth
+    tagline: Software Support / IT Professional
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: phil@rigovanov.ru
+    email: contact@haydenhildreth.com
     phone: # 012 345 6789
-    website: phil.rigovanov.ru #do not add http://
-    linkedin: rigovanov
+    website: haydenhildreth.com #do not add http://
+    linkedin: hayden-hildreth
     xing: # 
-    github: a1ip
-    telegram: rigovanov
+    github: haydenhildreth
+    telegram: # rigovanov
     gitlab: # a1ip
     bitbucket:
-    twitter: '@phil_rigovanov'
+    twitter: # '@phil_rigovanov'
     stack-overflow: # 747847/philippe-y-rigovanov # Number/Username, e.g. 123456/alandoe
-    codewars: a1ip
+    codewars: # a1ip
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Russian
-        level: Native
 
       - idiom: English
+        level: Native
+
+      - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Education
+      - item: Programming
         link:
         
       - item: Data Analysis
@@ -47,7 +48,7 @@ sidebar:
       - item: Machine Learning
         link:
         
-      - item: Natural Language Processing
+      - item: Cyber Security
         link:
         
       - item: Web Technologies
@@ -56,49 +57,25 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Math and informatics teacher interested in statistics, Data Analysis,
-      Data Visualisation, Machine Learning, Natural Language Processing and
-      Web Technologies as well as automation and optimization tasks.
+      Software support specialist, interested and passionate about new
+      and existing technologies.
+
 education:
-    - degree: BSc in Computer Science and Engineering
-      university: Southern Federal University
-      time: 2018 - 2023
+    - degree: BSc in Information Systems
+      university: Bowling Green State University
+      time: 2018 - 2022
       details: |
-        Department of Systems Analysis and Telecommunications
+        College of Business
 experiences:
-    - role: Informatics teacher
-      time: 2017 - 2019
-      company: Novorossiysk Professional College, Novorossiysk
+    - role: Software Support
+      time: 2022 - Present
+      company: GivenHansco
       details: |
-        All responsibilities of a 1st and 2nd year computer science teacher.
-        Implementation of the Google Class cloud educational platform.
-    - role: Tutor in mathematics and mentor in programming
-      time: 2014 - 2019
+        Job description.
+    - role: IT Developer Intern
+      time: 2019 - 2020
       details: |
-        Training children for passing the OGE (main state examination).
-        Assistance in mastering the school curriculum for grades 4-9.
-        Teaching children of elementary grades programming in JavaScript.
-    - role: System administrator
-      time: 2011 - 2017
-      company: Eltrans, Novorossiysk
-      details: |
-        Support for the company's internal computer network, e-mail and file servers,
-        workstations. Installation and support of "Transas" navigation training systems.
-        Development and support of the company's website.
-    - role: Technical Support Engineer, IT helpdesk
-      time: 2009 - 2010
-      company: Raiffeisenbank, Moscow
-      details: |
-        Troubleshooting the network devices, installation of workstations (computers and telephones), creating cross connections.
-    - role: Software Engineer
-      time: 2008
-      company: Lanit-Tercom, St. Petersburg
-      details: |
-        Quality assurance engineer, build engineer.
-          - working with CVS
-          - programming and debugging in COBOL
-          - writing scripts in Perl and vbscript
-          - developing online store prototype using the Ruby on Rails web development framework
+        Job description.
 projects:
     title: Projects
     intro: >
@@ -145,20 +122,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Jekyll
+      - name: Python
         level: 90%
 
-      - name: Javascript
-        level: 70%
+      - name: C++
+        level: 80%
 
-      - name: HTML & CSS
-        level: 80%
+      - name: Web Development (HTML, JavaScript & CSS)
+        level: 70%
         
-      - name: SVG
-        level: 80%
+      - name: C#
+        level: 70%
         
       - name: JAMstack
         level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://github.com/HaydenHildreth" target="_blank" rel="nofollow">Hayden Hildreth</a>
