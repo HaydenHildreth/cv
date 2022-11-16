@@ -39,7 +39,7 @@ sidebar:
       - item: Programming
         link:
         
-      - item: Data Analysis
+      - item: Cyber Security
         link:
 
       - item: Data Visualisation
@@ -48,10 +48,10 @@ sidebar:
       - item: Machine Learning
         link:
         
-      - item: Cyber Security
+      - item: Data Analysis
         link:
         
-      - item: Web Technologies
+      - item: Linux
         link:
 
 career-profile:
@@ -81,12 +81,12 @@ projects:
     intro: >
 #      Here are my side projects:
     assignments:
-      - title: Pictographic Phonetic Alphabet
+      - title: Python Password Manager
         link: "https://ppa4ipa.com"
-        tagline: "System of phonetic signs that includes symbols functioning as didactic software."
-      - title: PWA app for hymns lyrics
+        tagline: "Generate and store random passwords. Hashing and encryption capabilities."
+      - title: Startpages
         link: "https://github.com/novchurch/songs"
-        tagline: #""        
+        tagline: "Webpages used for FireFox/Chrome"        
       - title: Module for MyBible app
         link: "https://novchurch.github.io/plan/"
         tagline: #""
@@ -134,8 +134,8 @@ skills:
       - name: C#
         level: 70%
         
-      - name: JAMstack
-        level: 70%
+      - name: Linux
+        level: 80%
 
 footer: >
     Designed by <a href="http://github.com/HaydenHildreth" target="_blank" rel="nofollow">Hayden Hildreth</a>
